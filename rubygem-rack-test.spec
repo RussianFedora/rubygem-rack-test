@@ -5,7 +5,7 @@
 Summary:        Simple testing API built on Rack
 Name:           rubygem-%{gemname}
 Version:        0.6.2
-Release:        1%{?dist}
+Release:        2%{?dist}
 Group:          Development/Languages
 License:        MIT
 URL:            http://gitrdoc.com/brynary/rack-test/tree/master
